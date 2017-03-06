@@ -6,7 +6,7 @@ A very simple low pass filter.
 Features
 --------
 
-- 2nd order Buttleworth Filter
+- 2nd order Butterworth Filter
 
 Install
 -------
